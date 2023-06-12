@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415087123757",
+    "project_id": "hryfine-settings",
+    "storage_bucket": "hryfine-settings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415087123757:android:61aa2f32c5d82f415907a4",
+        "android_client_info": {
+          "package_name": "com.kakeanpolah.hrfnsttings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415087123757-m6u4i2c8dsddeirf89n71okvponnr5e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCThyrnEx4RaexXWRl3yOJPaCEoEEeOn_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415087123757-m6u4i2c8dsddeirf89n71okvponnr5e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
